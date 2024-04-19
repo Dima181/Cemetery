@@ -1,0 +1,1108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\K-Syndicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|d:\\unity_projects\\k-syndicate\\assets\\codebase\\infrastructure\\states\\loadlevelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\loadlevelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\states\\gamestatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\gamestatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\states\\loadprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\loadprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\factory\\igamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\factory\\igamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\factory\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\factory\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\cameralogic\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\cameralogic\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\loadingcurtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\loadingcurtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\editor\\uniqueideditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\codebase\\editor\\uniqueideditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\uniqueid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\uniqueid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\editor\\enemyspawnereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\codebase\\editor\\enemyspawnereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\staticdata\\minstertypeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\staticdata\\minstertypeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\agentmovetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\agentmovetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\aggro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\aggro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\enemydeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\enemydeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\checkattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\checkattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\animatealongagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\animatealongagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\hero\\herodeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\hero\\herodeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\hero\\heroattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\hero\\heroattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\ui\\actorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\actorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\input\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\input\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\input\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\input\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\ui\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\hero\\herohealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\hero\\herohealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\data\\playerprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\data\\playerprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\data\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\data\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\hero\\heroanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\hero\\heroanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\saveload\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\saveload\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\saveload\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\saveload\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\allservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\allservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\animatorstatererorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\animatorstatererorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\animatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\animatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\icoroutinerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\icoroutinerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\gamerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\gamerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\gamebootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\gamebootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\states\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\states\\bootstrapstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\bootstrapstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\states\\gameloopstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\states\\gameloopstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\ui\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\data\\worlddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\data\\worlddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\data\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\data\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\data\\positiononlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\data\\positiononlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\hero\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\hero\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\phisicsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\phisicsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\rotatetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\rotatetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\enemy\\triggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\enemy\\triggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\input\\mobileinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\input\\mobileinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\input\\standaloneinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\input\\standaloneinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\editor\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A3952-563C-B0A8-9C31-ADE71FFB701D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\codebase\\editor\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\savetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\savetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\infrastructure\\services\\persistenprogress\\isavedprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\services\\persistenprogress\\isavedprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_Projects\\nipPlan1.1\\nipplesWorld\\Assets\\Scripts\\Character\\CharacterAudioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|D:\\Unity_Projects\\K-Syndicate\\assets\\codebase\\logic\\ianimationstatereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD9EAD-CA41-B287-A24B-B5A85368F812}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\logic\\ianimationstatereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadLevelState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:08:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadProgressState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\LoadProgressState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\LoadProgressState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\LoadProgressState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\LoadProgressState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:49:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameFactory.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:39:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameFactory.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Factory\\GameFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Factory\\GameFactory.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Factory\\GameFactory.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Factory\\GameFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:39:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStateMachine.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\GameStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\GameStateMachine.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\GameStateMachine.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\GameStateMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:50:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\EnemySpawner.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:53:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGameFactory.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:33:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Cameralogic\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Cameralogic\\CameraFollow.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Cameralogic\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Cameralogic\\CameraFollow.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:13:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadingCurtain.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\LoadingCurtain.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\LoadingCurtain.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\LoadingCurtain.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\LoadingCurtain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:52:13.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Aggro.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\Aggro.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\Aggro.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\Aggro.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\Aggro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:30:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniqueIdEditor.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\UniqueIdEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Editor\\UniqueIdEditor.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\UniqueIdEditor.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Editor\\UniqueIdEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:41:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadLevelState.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:05:32.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadLevelState.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\09\\knowledge-is-power-5dd184c4c83da215669aff0ac78825a83a3bcb0f\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Infrastructure\\States\\LoadLevelState.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwv1QAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:06:05.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinsterTypeId.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\StaticData\\MinsterTypeId.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\StaticData\\MinsterTypeId.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\StaticData\\MinsterTypeId.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\StaticData\\MinsterTypeId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:49:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemySpawnerEditor.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\EnemySpawnerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Editor\\EnemySpawnerEditor.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\EnemySpawnerEditor.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Editor\\EnemySpawnerEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:18:19.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UniqueId.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\UniqueId.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\UniqueId.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\UniqueId.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\UniqueId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:38:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgentMoveToPlayer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\AgentMoveToPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\AgentMoveToPlayer.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\AgentMoveToPlayer.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\AgentMoveToPlayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnimateAlongAgent.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:07:47.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Constants.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Constants.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Constants.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:44:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckAttackRange.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:54:13.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:45:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyDeath.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\EnemyDeath.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyDeath.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\EnemyDeath.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:44:29.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\Follow.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\Follow.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\Follow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:30:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeroDeath.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Hero\\HeroDeath.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroDeath.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Hero\\HeroDeath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:03:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HeroAttack.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Hero\\HeroAttack.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroAttack.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Hero\\HeroAttack.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:04:47.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ActorUI.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\ActorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\ActorUI.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\ActorUI.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\UI\\ActorUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:12:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\InputService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\InputService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\InputService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\InputService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:43:52.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInputService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\IInputService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\IInputService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\IInputService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\IInputService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:40:48.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IHealth.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\IHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\IHealth.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\IHealth.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\IHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:56:57.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\LookAtCamera.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\UI\\LookAtCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:02:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HeroHealth.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Hero\\HeroHealth.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroHealth.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Hero\\HeroHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:04:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerProgress.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\PlayerProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Data\\PlayerProgress.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\PlayerProgress.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Data\\PlayerProgress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:32:18.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:50:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Data\\Stats.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\Stats.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Data\\Stats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:54:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HeroAnimator.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Hero\\HeroAnimator.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroAnimator.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Hero\\HeroAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:45:41.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\SceneLoader.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:18:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICoroutineRunner.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\ICoroutineRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\ICoroutineRunner.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\ICoroutineRunner.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\ICoroutineRunner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:47:04.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaveLoadService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\SaveLoadService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\SaveLoadService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\SaveLoadService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\SaveLoad\\SaveLoadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:50:23.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AnimatorState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\AnimatorState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\AnimatorState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\AnimatorState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\AnimatorState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GameBootstrapper.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\GameBootstrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\GameBootstrapper.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\GameBootstrapper.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\GameBootstrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:25:22.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AnimatorStateRerorter.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\AnimatorStateRerorter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\AnimatorStateRerorter.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\AnimatorStateRerorter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\AnimatorStateRerorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AllServices.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\AllServices.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\AllServices.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\AllServices.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\AllServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:24:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\IState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\IState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\IState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\IState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:50:44.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GameRunner.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\GameRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\GameRunner.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\GameRunner.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\GameRunner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:03:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BootstrapState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\BootstrapState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\BootstrapState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\BootstrapState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\BootstrapState.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:25:28.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Game.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Game.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:29:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnemyAnimator.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GameLoopState.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\GameLoopState.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\States\\GameLoopState.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\States\\GameLoopState.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\States\\GameLoopState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:31:06.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\HPBar.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\UI\\HPBar.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\UI\\HPBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:06:24.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Data\\State.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\State.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Data\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:37:05.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WorldData.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\WorldData.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Data\\WorldData.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\WorldData.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Data\\WorldData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:40:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PositionOnLevel.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\PositionOnLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Data\\PositionOnLevel.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Data\\PositionOnLevel.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Data\\PositionOnLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:41:02.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HeroMove.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroMove.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Hero\\HeroMove.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Hero\\HeroMove.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Hero\\HeroMove.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:45:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\Attack.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\Attack.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\Attack.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\Attack.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:55:54.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CheckAttackRange.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\08\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\CheckAttackRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:56:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PhisicsDebug.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\PhisicsDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\PhisicsDebug.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\PhisicsDebug.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\PhisicsDebug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:58:54.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EnemyAnimator.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\EnemyAnimator.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AnimateAlongAgent.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "RelativeToolTip": "..\\..\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 uFiler\\\u041A\u0443\u0440\u0441\u044B \u043F\u043E Unity\\\u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0430 \u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0438\u0433\u0440 \u043D\u0430 UNITY \u0434\u043B\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u043E\u0432\\06\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Enemy\\AnimateAlongAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:22:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RotateToPlayer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\RotateToPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\RotateToPlayer.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\RotateToPlayer.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\RotateToPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:57:53.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TriggerObserver.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\TriggerObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Enemy\\TriggerObserver.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Enemy\\TriggerObserver.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Enemy\\TriggerObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:22:17.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MobileInputService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\MobileInputService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\MobileInputService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\MobileInputService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\MobileInputService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:46:14.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "StandaloneInputService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\StandaloneInputService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\StandaloneInputService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\Input\\StandaloneInputService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\Input\\StandaloneInputService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:43:12.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\Tools.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Editor\\Tools.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Editor\\Tools.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Editor\\Tools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:55:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\IService.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\IService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:30:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SaveTrigger.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\SaveTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\SaveTrigger.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\SaveTrigger.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\SaveTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:23:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ISavedProgress.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\PersistenProgress\\ISavedProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Services\\PersistenProgress\\ISavedProgress.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Infrastructure\\Services\\PersistenProgress\\ISavedProgress.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Services\\PersistenProgress\\ISavedProgress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:44:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CharacterAudioController.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\nipPlan1.1\\nipplesWorld\\Assets\\Scripts\\Character\\CharacterAudioController.cs",
+              "RelativeDocumentMoniker": "..\\nipPlan1.1\\nipplesWorld\\Assets\\Scripts\\Character\\CharacterAudioController.cs",
+              "ToolTip": "D:\\Unity_Projects\\nipPlan1.1\\nipplesWorld\\Assets\\Scripts\\Character\\CharacterAudioController.cs",
+              "RelativeToolTip": "..\\nipPlan1.1\\nipplesWorld\\Assets\\Scripts\\Character\\CharacterAudioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:10:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IAnimationStateReader.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\IAnimationStateReader.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Logic\\IAnimationStateReader.cs",
+              "ToolTip": "D:\\Unity_Projects\\K-Syndicate\\Assets\\CodeBase\\Logic\\IAnimationStateReader.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Logic\\IAnimationStateReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEnSURBVFhHYxgFo2AUjHjACKXh4MLDC/9BdO\u002BBXjD/1ONTYPrPvz9g2kzWDEwvT1yOovftx7dgfeaTzMH8O7V3wPK4xGGACUoPGIC75tKjS2CXhi8JB/PNZSEuTjJLAtP8HPxg\u002Bvqr62A6wjQCxYdG/UYgiiBgZWYF07CQGDwhkLI0BeyT55\u002Beg/krY1eCaR4eHpQ4wwWGbBqAO\u002BD049Ng7KbuBsYgnxPre0rA4EkDmq2a4LjKtckF87Pss0iK\u002B6GfC8LmhYF98vffXzB/bcpakuJ/yOYCuGtO3j0JdmnE4ggw30PDA0xHGED4sLi79PwSmM6wyyAphHCBwRMCMLDn2h5wSEw5MgXMv/PmDpjmYuMC0/bK9mC6O7B7eITAKBgFo2CkAwYGANm2e7w/VqGPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-05T15:10:49.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
